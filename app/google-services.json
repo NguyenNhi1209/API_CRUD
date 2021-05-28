@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458699050065",
+    "project_id": "thithuonl-bb67c",
+    "storage_bucket": "thithuonl-bb67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458699050065:android:133047576fe06b1f517c70",
+        "android_client_info": {
+          "package_name": "com.example.thithuonl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458699050065-9647uhqc9r80m3r33ffvfhfvletuf21t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1PIVBn7mMbpxP08X3lRdPNIwKHjz5qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458699050065-9647uhqc9r80m3r33ffvfhfvletuf21t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
