@@ -12,9 +12,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ThiThuOnl">
         <activity
+            android:name=".SuaPerson"
+            android:label="@string/title_activity_sua_person"
+            android:theme="@style/Theme.ThiThuOnl.NoActionBar"></activity>
+        <activity
+            android:name=".ThemPerson"
+            android:label="@string/title_activity_them_person"
+            android:theme="@style/Theme.ThiThuOnl.NoActionBar" />
+        <activity
             android:name=".TrangChu"
             android:label="@string/title_activity_trang_chu"
-            android:theme="@style/Theme.ThiThuOnl.NoActionBar"></activity>
+            android:theme="@style/Theme.ThiThuOnl.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
